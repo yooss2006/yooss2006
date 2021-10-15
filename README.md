@@ -2,6 +2,9 @@
 ### my name is "유순상"
   <div align=left>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyooss2006)](https://hits.seeyoufarm.com) 
+my gitHub! </br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooss2006)](https://github.com/anuraghazra/github-readme-stats)
 	
-  </div>
+아이고
+  </div> 
