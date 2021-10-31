@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=header&text=hi%20soon!🙄&fontSize=30&textBg=true)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyooss2006&count_bg=%237683D1&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98+%3A&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 안녕하세요. 
 프론트엔드 개발자 **유순상**입니다. 😀
@@ -26,4 +26,5 @@
 <img src="https://img.shields.io/badge/react-black?style=flat-square&logo=React&logoColor=40ccfb"/></a>
 <img src="https://img.shields.io/badge/Redux-7e43c0?style=flat-square&logo=Redux&logoColor=white"/></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooss2006)](https://github.com/anuraghazra/github-readme-stats)
 
