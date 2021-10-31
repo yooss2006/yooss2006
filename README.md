@@ -13,7 +13,7 @@
 
 자격증으로는 **정보처리기사 자격증**이 있습니다. 
 
-## 기술스택
+## ⛏기술스택
 <img src="https://img.shields.io/badge/HTML5-f77900?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-31a8d8?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/javascript-3766AB?style=flat-square&logo=JavaScript&logoColor=white"/></a>
