@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=header&text=hi%20soon!🙄&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=header&text=hi%20soon!🙄&fontSize=30&textBg=true)
 
 
 # 안녕하세요. 
