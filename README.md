@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=header&text=hi%20soon!🙄&fontSize=30)
+
+
 # 안녕하세요. 
 프론트엔드 개발자 **유순상**입니다. 😀
 
