@@ -16,6 +16,7 @@
 
 자격증으로는 **정보처리기사 자격증**이 있습니다. 
 
+현재는 **멋쟁이사자처럼 프론트엔드 스쿨** 과정을 진행하고있습니다. 더욱 발전해 🦁멋쟁이개발자🦁가 되겠습니다.
 ## ⛏기술스택
 <img src="https://img.shields.io/badge/HTML5-f77900?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-31a8d8?style=flat-square&logo=CSS3&logoColor=white"/></a>
