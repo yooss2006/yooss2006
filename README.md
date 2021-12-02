@@ -20,6 +20,7 @@
 
 ## 블로그
 <a href="https://velog.io/@yooss2006"><img src="https://img.shields.io/badge/-velog-black"/></a>
+<a href="https://supreme-balance-5ba.notion.site/ver-1-2a2a1ca4c8324081855a4e737d8424da"><img src="https://img.shields.io/badge/-notion-white"/></a>
 
 ## ⛏기술스택
 <img src="https://img.shields.io/badge/HTML5-f77900?style=flat-square&logo=HTML5&logoColor=white"/></a>
