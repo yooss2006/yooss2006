@@ -27,11 +27,8 @@
 <img src="https://img.shields.io/badge/CSS-31a8d8?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Sass-c46697?style=flat-square&logo=Sass&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/javascript-3766AB?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-
 <img src="https://img.shields.io/badge/nodejs-87bf00?style=flat-square&logo=Node.js&logoColor=63655e"/></a>
-<img src="https://img.shields.io/badge/TypeScript-0076c6?style=flat-square&logo=TypeScript&logoColor=83acc9"/></a>
 <img src="https://img.shields.io/badge/react-black?style=flat-square&logo=React&logoColor=40ccfb"/></a>
-<img src="https://img.shields.io/badge/Redux-7e43c0?style=flat-square&logo=Redux&logoColor=white"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooss2006)](https://github.com/anuraghazra/github-readme-stats)
 
