@@ -21,9 +21,6 @@
 
 더욱 발전해 🦁멋쟁이개발자🦁가 되겠습니다.
 
-## 이력서
-<a href="https://supreme-balance-5ba.notion.site/yousunsang-e36c34d9648f4b09b438a6c7d39ad39a"><img src="https://img.shields.io/badge/-이력서-green"/></a>
-
 ## 블로그
 <a href="https://velog.io/@yooss2006"><img src="https://img.shields.io/badge/-velog-black"/></a>
 <a href="https://supreme-balance-5ba.notion.site/ver-1-2a2a1ca4c8324081855a4e737d8424da"><img src="https://img.shields.io/badge/-notion-white"/></a>
