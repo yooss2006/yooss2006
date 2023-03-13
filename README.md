@@ -9,6 +9,8 @@
 
 ## 블로그
 <a href="https://velog.io/@yooss2006"><img src="https://img.shields.io/badge/-velog-black"/></a>
+<a href="https://yooss2006.github.io"><img src="https://img.shields.io/badge/-blog-black"/></a>
+
 
 ## ⛏기술스택
 <img src="https://img.shields.io/badge/HTML5-f77900?style=flat-square&logo=HTML5&logoColor=white"/></a>
